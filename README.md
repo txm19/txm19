@@ -1,7 +1,16 @@
-[![MasterHead](https://chatgpt.com/s/m_68a397fa2138819197827f8d5c1985b3)](https://tistamanandhar.com)
+<p align="center">
+  <a href="https://tistamanandhar.com">
+    <img src="./cse.png" alt="MasterHead" width="80%" height="400"/>
+  </a>
+</p>
 
 <h1 align="center">Hi 👋, I'm Tista Manandhar</h1>
-<h3 align="center">I’m Tista Manandhar, an Honors Computer Science student at the University of Texas at Arlington (Class of 2026) with a focus on Cloud & DevOps, Software Engineering, and AI/ML. I enjoy designing and developing scalable software solutions that combine strong technical foundations with real-world impact. My experience spans full-stack development, workflow automation, and machine learning applications. I’m passionate about continuous learning, problem-solving, and building technology that improves efficiency and accessibility.</h3>
+<h3 align="center">
+  I’m Tista Manandhar, an Honors Computer Science student at the University of Texas at Arlington (Class of 2026) with a focus on Cloud & DevOps, Software Engineering, CyberSecurity and AI/ML. 
+  I enjoy designing and developing scalable software solutions that combine strong technical foundations with real-world impact. 
+  My experience spans full-stack development, workflow automation, and machine learning applications. 
+  I’m passionate about continuous learning, problem-solving, and building technology that improves efficiency and accessibility.
+</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=txm19&label=Profile%20views&color=0e75b6&style=flat" alt="txm19" /> 
