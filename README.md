@@ -30,6 +30,9 @@
   <a href="https://instagram.com/_tistaa" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tistaa" height="30" width="40" />
   </a>
+  <a href="mailto:manandhartista@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
