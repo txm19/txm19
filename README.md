@@ -6,10 +6,11 @@
 
 <h1 align="center">Hi 👋, I'm Tista Manandhar</h1>
 <h3 align="center">
-  I’m Tista Manandhar, an Honors Computer Science student at the University of Texas at Arlington (Class of 2026) with a focus on Cloud & DevOps, Software Engineering, CyberSecurity and AI/ML. 
-  I enjoy designing and developing scalable software solutions that combine strong technical foundations with real-world impact. 
-  My experience spans full-stack development, workflow automation, and machine learning applications. 
-  I’m passionate about continuous learning, problem-solving, and building technology that improves efficiency and accessibility.
+  I'm a Senior Java & AI Engineer specializing in enterprise application development, Spring Boot microservices, distributed systems, and cloud-native solutions.
+
+My expertise spans Java, Python, Spring Boot, REST APIs, Kafka, AWS, Azure, Docker, and Kubernetes. I also work with AI/ML technologies, including LangChain, LangGraph, and LLM-powered workflows, to build intelligent, scalable applications.
+
+I'm passionate about backend engineering, system design, AI integration, and building secure, high-performance software solutions that solve real-world problems.
 </h3>
 
 <p align="left"> 
